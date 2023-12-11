@@ -278,7 +278,12 @@
         "fire",
         "em"
     ],
-    "UNWANTED PERSON - WITH WEAPON *H": ["pol", "vio"],
+    "UNWANTED PERSON - WITH WEAPON *H": [
+        "pol",
+        "vio"
+    ],
     "Water Rescue": [],
-    "ANIMAL PROBLEM - PRIORITY": []
+    "ANIMAL PROBLEM - PRIORITY": [],
+    "Emergency": [],
+    "Smoke Investigation": []
 }

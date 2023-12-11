@@ -6,20 +6,21 @@
         "locationbased"
     ],
     "events": [
-        "events_default"
+        "events_default",
+        "events_rest_api",
+        "map_events"
     ],
     "agencies": [
-        "00291",
-        "00015"
+        "57065"
     ],
     "locations": [
         {
-            "name": "airport",
-            "address": "7000 NE Airport Way",
+            "name": "West Sacramento Fire Department",
+            "address": "905 Fremont Blvd",
             "match": "",
             "coords": [
-                45.5898202,
-                -122.591343
+                38.5804490000,
+                -121.5302380000
             ],
             "radius": 5000.0,
             "importance": 1,
